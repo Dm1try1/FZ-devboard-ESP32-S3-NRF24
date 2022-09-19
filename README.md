@@ -12,3 +12,4 @@ This board must meet the requirements:
 ![](https://github.com/Dm1try1/Final/blob/master/Schematic_New%20Project_2022-09-19.png)
 
 #PCB
+![](https://github.com/Dm1try1/Final/blob/master/PCB.png)
