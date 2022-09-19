@@ -7,7 +7,7 @@ This board must meet the requirements:
 5) Has an antenna amplifier
 
 
-#Circuit diagram
+# Circuit diagram
 
 ![](https://github.com/Dm1try1/Final/blob/master/Schematic_New%20Project_2022-09-19.png)
 
