@@ -13,3 +13,20 @@ This board is designed to meet the following requirements:
 
 # PCB
 ![](https://github.com/Dm1try1/Final/blob/master/PCB.png)
+
+
+# PCB information
+
+Size: 62.48mm x 27.31mm
+Signal layers: 2
+Non-signal layers: 10
+Components:59
+Venues:224
+   Surface pads: 204
+   Plated through holes: 20
+   Through non-plated holes: 0
+Holes:0
+vias:49
+Chains:80/80
+Track length: 867.4mm
+Copper areas: 2
