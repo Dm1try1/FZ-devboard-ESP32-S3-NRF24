@@ -17,7 +17,7 @@ This board is designed to meet the following requirements:
 
 # PCB information
 
-Size: 62.48mm x 27.31mm
+Size: 60.69mm x 29.2mm
 
 Signal layers: 2
 
@@ -25,20 +25,20 @@ Non-signal layers: 10
 
 Components:59
 
-Venues:224
+Venues:229
 
-   Surface pads: 204
+   Surface pads: 211
 
-   Plated through holes: 20
+   Plated through holes: 18
 
    Through non-plated holes: 0
 
 Holes:0
 
-vias:49
+vias:33
 
 Chains:80/80
 
-Track length: 867.4mm
+Track length: 712.2mm
 
 Copper areas: 2
