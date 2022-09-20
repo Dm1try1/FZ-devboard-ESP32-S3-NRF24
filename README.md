@@ -7,11 +7,11 @@ This board is designed to meet the following requirements:
 5) Has an antenna amplifier for ESP32-S3
 
 
-# Circuit diagram
+# Circuit diagram(REV:2)
 
 ![](https://github.com/Dm1try1/Final/blob/master/Schematic_New%20Project_2022-09-20.png)
 
-# PCB
+# PCB(REV:2)
 ![](https://github.com/Dm1try1/Final/blob/master/PNG.png)
 
 
