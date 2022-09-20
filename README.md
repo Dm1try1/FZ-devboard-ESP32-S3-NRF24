@@ -9,10 +9,10 @@ This board is designed to meet the following requirements:
 
 # Circuit diagram
 
-![](https://github.com/Dm1try1/Final/blob/master/Schematic_New%20Project_2022-09-19.png)
+![](https://github.com/Dm1try1/Final/blob/master/Schematic_New%20Project_2022-09-20.png)
 
 # PCB
-![](https://github.com/Dm1try1/Final/blob/master/PCB.png)
+![](https://github.com/Dm1try1/Final/blob/master/PNG.png)
 
 
 # PCB information

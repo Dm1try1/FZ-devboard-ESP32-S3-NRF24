@@ -4,7 +4,7 @@
   "name": "New Project",
   "content": "",
   "created_at": "2022-09-13 12:50:27",
-  "updated_at": "2022-09-19 11:06:46",
+  "updated_at": "2022-09-20 13:00:01",
   "stick": "",
   "documents": [
     {
@@ -19,26 +19,21 @@
         "2d177721b6ed46d5b8c9a05ad9452e0a": 1,
         "b7f82c74f67142c29f9b483d08dcbd70": 1,
         "1770b58c63e24c08a938bc6784dce6af": 1,
-        "489c8c2797b3be6910440955cca21c01": 3,
+        "489c8c2797b3be6910440955cca21c01": 2,
         "3405921bb22b45b199364636fdc66aba": 7,
         "3bc11af0403e1f03939e8e3556800630": 3,
         "a4eacdcb63554cb08b3b56477817ab57": 1,
         "c178fe7a36de495d91bd9dde1de87cff": 1,
-        "69f7b21912f24ab6bc0da5408d2eecbc": 6,
         "28077fb1d4c94679b295ff0b6df2bcad": 1,
-        "2a98742d1d544fd697942b871d961455": 2,
         "50b4f5170cbb4cb296a2f5607c7a2cb6": 1,
         "6fc778687e396f50131810e71c425022": 1,
         "a5b2b1b429f9237006204a4da3edeb60": 1,
         "ff2738ab9b047633314b6fe37be989c0": 1,
         "c662ea5254794efca79755fdd6189524": 1,
-        "581125a14e12e18ffc3f8a73f22b8ab4": 1,
-        "9e65dd1c18ca4f7985cdcd2467d06198": 1,
         "3a655d3613e449d886ae4c2ee54429d5": 1,
         "fc79c8572c71f5ee31bb060b3e432850": 1,
         "5164df2efabb9ee89bb3dd596d0cfb40": 1,
         "80b3502eb2824227bd7a64e06f7c541c": 1,
-        "1910ae64df5d47bc95a6b14f5ebc0c7e": 1,
         "967cc4dc66784f83bf4fa6a09bb8ce45": 4,
         "dd9e4224c18644739b55c97fc2b3083e": 1,
         "4a0e106d25808e75d8d4d9dfb2bf6ef2": 1,
@@ -49,8 +44,14 @@
         "7efc8cedccdc4ff88d42cd48a1ef4e87": 2,
         "a223d2e2da5c40a98ea95cb93b28358a": 1,
         "81517f7791f047eaa4cdbf4805e79779": 1,
-        "622acb2c08fc42639208eb4a11cc45f9": 2,
-        "ee760a69202b4ee4a6c036fc585e75a9": 2
+        "ee760a69202b4ee4a6c036fc585e75a9": 2,
+        "9f0f9f42eb63414dad304c797cf670be": 7,
+        "15ac0f43cc8cb1eaa99539a5f5f45469": 1,
+        "11773c9293ab4d48bbb2d97051971d3c": 2,
+        "4a63236bda83a898f04660837751103f": 1,
+        "dd1bd0a9f0b849aeb788b05bdd214157": 1,
+        "b585d92194385de14506b560a4a27e20": 1,
+        "6aba288ff1b80d07eefcd1c50c857bb0": 1
       },
       "BOM": [
         [
@@ -75,33 +76,33 @@
           }
         ],
         [
-          "10nF",
-          3,
+          "10uF",
+          1,
           "C0402",
-          "C1,C10,C18",
+          "C1",
           {
             "BOM_Supplier": "LCSC",
-            "BOM_Manufacturer": "FH",
-            "BOM_Manufacturer Part": "0402B103K500NT",
-            "BOM_Supplier Part": "C1524",
-            "BOM_JLCPCB Part Class": "Extended Part",
+            "BOM_Manufacturer Part": "CL05A106MQ5NUNC",
+            "BOM_Manufacturer": "SAMSUNG",
+            "BOM_Supplier Part": "C15525",
+            "BOM_JLCPCB Part Class": "Basic Part",
             "puuid": "0821ed6ea50c44f4909e4be7610e4198",
-            "uuid": "489c8c2797b3be6910440955cca21c01"
+            "uuid": "b585d92194385de14506b560a4a27e20"
           }
         ],
         [
-          "1nF",
+          "22uF",
           1,
-          "C0402",
+          "C0603",
           "C2",
           {
             "BOM_Supplier": "LCSC",
-            "BOM_Manufacturer": "FH",
-            "BOM_Manufacturer Part": "0402B102K500NT",
-            "BOM_Supplier Part": "C1523",
-            "BOM_JLCPCB Part Class": "Basic Part",
-            "puuid": "0821ed6ea50c44f4909e4be7610e4198",
-            "uuid": "581125a14e12e18ffc3f8a73f22b8ab4"
+            "BOM_Manufacturer Part": "GRM188B30J226MEA0D",
+            "BOM_Manufacturer": "MuRata",
+            "BOM_Supplier Part": "C15500",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "6aba288ff1b80d07eefcd1c50c857bb0"
           }
         ],
         [
@@ -137,16 +138,16 @@
         [
           "4.7pF",
           1,
-          "C0402",
+          "C0603",
           "C6",
           {
             "BOM_Supplier": "LCSC",
-            "BOM_Supplier Part": "C318617",
-            "BOM_Manufacturer": "Samsung Electro-Mechanics",
-            "BOM_Manufacturer Part": "CL05C4R7BB5NNNC",
+            "BOM_Manufacturer Part": "CL10C4R7CB8NNNC",
+            "BOM_Manufacturer": "SAMSUNG",
+            "BOM_Supplier Part": "C57140",
             "BOM_JLCPCB Part Class": "Extended Part",
-            "puuid": "0821ed6ea50c44f4909e4be7610e4198",
-            "uuid": "1910ae64df5d47bc95a6b14f5ebc0c7e"
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "15ac0f43cc8cb1eaa99539a5f5f45469"
           }
         ],
         [
@@ -192,6 +193,21 @@
             "BOM_JLCPCB Part Class": "Extended Part",
             "puuid": "0821ed6ea50c44f4909e4be7610e4198",
             "uuid": "80b3502eb2824227bd7a64e06f7c541c"
+          }
+        ],
+        [
+          "10nF",
+          2,
+          "C0402",
+          "C10,C18",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "FH",
+            "BOM_Manufacturer Part": "0402B103K500NT",
+            "BOM_Supplier Part": "C1524",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "0821ed6ea50c44f4909e4be7610e4198",
+            "uuid": "489c8c2797b3be6910440955cca21c01"
           }
         ],
         [
@@ -343,6 +359,21 @@
           }
         ],
         [
+          "AMS1117-3.3",
+          1,
+          "SOT-89-3_L4.5-W2.5-P1.50-LS4.2-BR",
+          "Q1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C5120796",
+            "BOM_Manufacturer": "MSKSEMI(美森科)",
+            "BOM_Manufacturer Part": "AMS1117-3.3V",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "89243c15a2974ba08305eced8ca2c9d4",
+            "uuid": "dd1bd0a9f0b849aeb788b05bdd214157"
+          }
+        ],
+        [
           "1MΩ",
           1,
           "R0402",
@@ -374,17 +405,17 @@
         ],
         [
           "0Ω",
-          6,
-          "R2512",
-          "R3,R4,R5,R6,R7,R8",
+          7,
+          "R0603",
+          "R3,R4,R5,R6,R7,R12,R13",
           {
             "BOM_Supplier": "LCSC",
-            "BOM_Supplier Part": "C556651",
-            "BOM_Manufacturer": "Milliohm",
-            "BOM_Manufacturer Part": "HoT2512D-3W-0R",
+            "BOM_Supplier Part": "C365490",
+            "BOM_Manufacturer": "ResistorToday",
+            "BOM_Manufacturer Part": "ETCR0603F0000K9",
             "BOM_JLCPCB Part Class": "Extended Part",
-            "puuid": "fb95bdea7e4c47178f8936f7bcf0994e",
-            "uuid": "69f7b21912f24ab6bc0da5408d2eecbc"
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "9f0f9f42eb63414dad304c797cf670be"
           }
         ],
         [
@@ -433,37 +464,22 @@
           }
         ],
         [
-          "0Ω",
+          "KH-IPEX4-2020",
           2,
-          "R2512",
-          "R12,R13",
+          "IPEX4-SMD_4P-L1.8-W1.7-LS2.0-L_KH-IPEX4-2020",
+          "RF1,RF2",
           {
             "BOM_Supplier": "LCSC",
-            "BOM_Supplier Part": "C556650",
-            "BOM_Manufacturer": "Milliohm",
-            "BOM_Manufacturer Part": "HoT2512D-2W-0R",
+            "BOM_Supplier Part": "C530666",
+            "BOM_Manufacturer": "Shenzhen Kinghelm Elec",
+            "BOM_Manufacturer Part": "KH-IPEX4-2020",
             "BOM_JLCPCB Part Class": "Extended Part",
-            "puuid": "fb95bdea7e4c47178f8936f7bcf0994e",
-            "uuid": "622acb2c08fc42639208eb4a11cc45f9"
+            "puuid": "28adc087b8a04cb791b02cc221afddd6",
+            "uuid": "11773c9293ab4d48bbb2d97051971d3c"
           }
         ],
         [
-          "BWIPX-1-001E",
-          2,
-          "IPEX-SMD_BWIPX-1-001E",
-          "RF2,RF3",
-          {
-            "BOM_Supplier": "LCSC",
-            "BOM_Supplier Part": "C496552",
-            "BOM_Manufacturer": "BAT WIRELESS(蝙蝠无线)",
-            "BOM_Manufacturer Part": "BWIPX-1-001E",
-            "BOM_JLCPCB Part Class": "Extended Part",
-            "puuid": "51ae8344bc5b416889cc0e991ca4eedd",
-            "uuid": "2a98742d1d544fd697942b871d961455"
-          }
-        ],
-        [
-          "2.4GHz",
+          "NRF24",
           1,
           "QFN-20_L4.0-W4.0-P0.50-BL-EP",
           "U1",
@@ -538,32 +554,18 @@
           }
         ],
         [
-          "PLS-8R",
-          1,
-          "PLS-8",
-          "U7",
-          {
-            "BOM_Manufacturer": "",
-            "BOM_Manufacturer Part": "PLS-8",
-            "BOM_Supplier Part": "undefined",
-            "BOM_Supplier": "",
-            "puuid": "1c354a6a763942fda2bdcdfaeea7c51e",
-            "uuid": "a223d2e2da5c40a98ea95cb93b28358a"
-          }
-        ],
-        [
           "16MHz",
           1,
-          "HC-49US_L11.5-W4.5-P4.88",
+          "CRYSTAL-SMD_4P-L3.2-W2.5-BL",
           "X1",
           {
             "BOM_Supplier": "LCSC",
-            "BOM_Supplier Part": "C240920",
-            "BOM_Manufacturer": "Suzhou Liming Elec",
-            "BOM_Manufacturer Part": "49S-16.000-20-20-20/A",
+            "BOM_Manufacturer": "YXC",
+            "BOM_Manufacturer Part": "X322516MOB4SI",
+            "BOM_Supplier Part": "C12668",
             "BOM_JLCPCB Part Class": "Extended Part",
-            "puuid": "c3f5f0ccc4444176a5a6d81e2c6071f5",
-            "uuid": "9e65dd1c18ca4f7985cdcd2467d06198"
+            "puuid": "9e297fbdb6c24ee39419d7ac96617dbf",
+            "uuid": "4a63236bda83a898f04660837751103f"
           }
         ],
         [
@@ -594,55 +596,69 @@
             "puuid": "592bfb95d5b14ad49bd5c863b6056d02",
             "uuid": "81517f7791f047eaa4cdbf4805e79779"
           }
+        ],
+        [
+          "PLS-8R",
+          1,
+          "PLS-8",
+          "XT2",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "PLS-8",
+            "BOM_Supplier Part": "undefined",
+            "BOM_Supplier": "",
+            "puuid": "1c354a6a763942fda2bdcdfaeea7c51e",
+            "uuid": "a223d2e2da5c40a98ea95cb93b28358a"
+          }
         ]
       ],
-      "updateTime": 1663574806,
+      "updateTime": 1663668001,
       "createTime": 1663062638,
       "histories": [],
       "created_at": "2022-09-13 12:50:38",
-      "updated_at": "2022-09-19 11:06:46"
+      "updated_at": "2022-09-20 13:00:01"
     },
     {
-      "uuid": "2209e06722f826db175df6333e58a7e1",
+      "uuid": "b8648c8e6e81e20b15ae04bf065c79ad",
       "puuid": "79e945a6a105aa9653ff2906e979d143",
-      "title": "PCB_New Project",
-      "filename": "PCB_New Project.json",
+      "title": "PCB_New Project_2",
+      "filename": "PCB_New Project_2.json",
       "description": "",
       "docType": "3",
       "master": "",
       "thumb": "/images/thumb-default.png",
       "components": {
-        "0821ed6ea50c44f4909e4be7610e4198": 26,
-        "c3f5f0ccc4444176a5a6d81e2c6071f5": 1,
-        "f8151fdc728a41ebbc304e11d39e5437": 2,
+        "0bda8871273a46b9b8edd5ad69d0be20": 2,
+        "0821ed6ea50c44f4909e4be7610e4198": 24,
+        "f8151fdc728a41ebbc304e11d39e5437": 4,
         "8da96988a9164ab09ca115e01caf2944": 3,
         "1f261cf72cb1479ca32177c31156ede3": 1,
         "b032a09c6f0f450ea0edcabcda748291": 1,
+        "89243c15a2974ba08305eced8ca2c9d4": 1,
         "fafd024f554e426eb74cf4a204aa88b0": 2,
-        "398691f1f785460098bbe5ee6590333c": 3,
-        "fb95bdea7e4c47178f8936f7bcf0994e": 8,
-        "51ae8344bc5b416889cc0e991ca4eedd": 2,
+        "398691f1f785460098bbe5ee6590333c": 10,
+        "28adc087b8a04cb791b02cc221afddd6": 2,
         "21c52dac0e4d4362ad14f623a7ee6a7e": 1,
         "a2c77697c4f2423d9c27e20724fa2168": 1,
         "fdf2396de7694c3e8177c1c94fe2bbcd": 1,
         "1fe0adc377c7472ba321d68db1c050fa": 1,
         "7e85c268cf1d42cb91e0121064e9e7d9": 1,
+        "9e297fbdb6c24ee39419d7ac96617dbf": 1,
         "b70bae0bf5554f38890502620b7befb0": 1,
-        "1c354a6a763942fda2bdcdfaeea7c51e": 1,
         "592bfb95d5b14ad49bd5c863b6056d02": 1,
-        "0bda8871273a46b9b8edd5ad69d0be20": 2
+        "1c354a6a763942fda2bdcdfaeea7c51e": 1
       },
       "BOM": [],
-      "updateTime": 1663574749,
-      "createTime": 1663152653,
+      "updateTime": 1663667667,
+      "createTime": 1663666404,
       "histories": [],
-      "created_at": "2022-09-14 13:50:53",
-      "updated_at": "2022-09-19 11:05:49"
+      "created_at": "2022-09-20 12:33:24",
+      "updated_at": "2022-09-20 12:54:27"
     }
   ],
   "sort": [],
   "title": "New Project",
   "foldername": "New Project",
   "schfilename": "New Project.json",
-  "schfilemtime": 1663574806706
+  "schfilemtime": 1663668001909
 }
