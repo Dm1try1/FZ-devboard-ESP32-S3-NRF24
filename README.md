@@ -13,6 +13,7 @@ This board is designed to meet the following requirements:
 
 # Unresolved issues
 I am not sure that I chose the right capacitors in the antenna circuit for the ESP32
+PCB creation
 
 # PCB(REV:2)
 ![](https://github.com/Dm1try1/Final/blob/master/PNG.png)
