@@ -9,7 +9,7 @@ This board is designed to meet the following requirements:
 
 # Circuit diagram(REV:3)
 
-![](https://github.com/Dm1try1/Final/blob/master/Schematic_New%20Project_2022-09-22.png)
+![](https://github.com/Dm1try1/Final/blob/master/Schematic_New%20Project_2022-09-26.png)
 
 # Unresolved issues
 I am not sure that I chose the right capacitors in the antenna circuit for the ESP32
