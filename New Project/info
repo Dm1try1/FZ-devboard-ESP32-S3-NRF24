@@ -1,0 +1,599 @@
+{
+  "uuid": "3fb7abcf89b590b283c53ec9a7fef37b",
+  "path": "Offline/New%20Project",
+  "name": "New Project",
+  "content": "",
+  "created_at": "2022-09-26 10:44:33",
+  "updated_at": "2022-09-27 14:23:05",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "21af4792048ff9a1dbaeedb7d7e82fef",
+      "title": "Sheet_1",
+      "description": "",
+      "docType": "1",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "a50c9f84a3a94191b150bc792c5b2ad0": 1,
+        "2d177721b6ed46d5b8c9a05ad9452e0a": 1,
+        "b7f82c74f67142c29f9b483d08dcbd70": 1,
+        "1770b58c63e24c08a938bc6784dce6af": 1,
+        "3405921bb22b45b199364636fdc66aba": 7,
+        "3bc11af0403e1f03939e8e3556800630": 3,
+        "c178fe7a36de495d91bd9dde1de87cff": 1,
+        "28077fb1d4c94679b295ff0b6df2bcad": 1,
+        "6fc778687e396f50131810e71c425022": 1,
+        "a5b2b1b429f9237006204a4da3edeb60": 1,
+        "ff2738ab9b047633314b6fe37be989c0": 1,
+        "c662ea5254794efca79755fdd6189524": 1,
+        "3a655d3613e449d886ae4c2ee54429d5": 1,
+        "fc79c8572c71f5ee31bb060b3e432850": 1,
+        "5164df2efabb9ee89bb3dd596d0cfb40": 1,
+        "80b3502eb2824227bd7a64e06f7c541c": 1,
+        "967cc4dc66784f83bf4fa6a09bb8ce45": 4,
+        "dd9e4224c18644739b55c97fc2b3083e": 1,
+        "a223d2e2da5c40a98ea95cb93b28358a": 1,
+        "81517f7791f047eaa4cdbf4805e79779": 1,
+        "ee760a69202b4ee4a6c036fc585e75a9": 2,
+        "9f0f9f42eb63414dad304c797cf670be": 7,
+        "15ac0f43cc8cb1eaa99539a5f5f45469": 1,
+        "11773c9293ab4d48bbb2d97051971d3c": 2,
+        "4a63236bda83a898f04660837751103f": 1,
+        "dd1bd0a9f0b849aeb788b05bdd214157": 1,
+        "b585d92194385de14506b560a4a27e20": 3,
+        "6aba288ff1b80d07eefcd1c50c857bb0": 1,
+        "cd9e34ce9a1e4864bd8337b5d5e6b2cb": 1,
+        "563c0a0224544f9cacf63177bead8410": 1,
+        "7ae313cd9d9fe502200d6720c10f1514": 1,
+        "63e7742b0d2992ebd75dc6250c474d28": 1,
+        "cb224f52402d388e96aa85180af234fd": 1
+      },
+      "BOM": [
+        [
+          "Value",
+          "Quantity",
+          "Package",
+          "Components",
+          "CustomPara"
+        ],
+        [
+          "EVPAWCD4A",
+          2,
+          "KEY-SMD_2P-L3.2-2.0-L",
+          "BOOT,RESET",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C2845001",
+            "BOM_Manufacturer": "PANASONIC(松下)",
+            "BOM_Manufacturer Part": "EVPAWCD4A",
+            "puuid": "0bda8871273a46b9b8edd5ad69d0be20",
+            "uuid": "ee760a69202b4ee4a6c036fc585e75a9"
+          }
+        ],
+        [
+          "10uF",
+          3,
+          "C0402",
+          "C1,C10,C18",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "CL05A106MQ5NUNC",
+            "BOM_Manufacturer": "SAMSUNG",
+            "BOM_Supplier Part": "C15525",
+            "BOM_JLCPCB Part Class": "Basic Part",
+            "puuid": "0821ed6ea50c44f4909e4be7610e4198",
+            "uuid": "b585d92194385de14506b560a4a27e20"
+          }
+        ],
+        [
+          "22uF",
+          1,
+          "C0603",
+          "C2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "GRM188B30J226MEA0D",
+            "BOM_Manufacturer": "MuRata",
+            "BOM_Supplier Part": "C15500",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "6aba288ff1b80d07eefcd1c50c857bb0"
+          }
+        ],
+        [
+          "22pF",
+          4,
+          "C0402",
+          "C3,C4,C23,C24",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C525204",
+            "BOM_Manufacturer": "PSA(Prosperity Dielectrics)",
+            "BOM_Manufacturer Part": "FN15N220J500PNG",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "0821ed6ea50c44f4909e4be7610e4198",
+            "uuid": "967cc4dc66784f83bf4fa6a09bb8ce45"
+          }
+        ],
+        [
+          "2.2nF",
+          1,
+          "C0402",
+          "C5",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "FH",
+            "BOM_Manufacturer Part": "0402B222K500NT",
+            "BOM_Supplier Part": "C1531",
+            "BOM_JLCPCB Part Class": "Basic Part",
+            "puuid": "0821ed6ea50c44f4909e4be7610e4198",
+            "uuid": "fc79c8572c71f5ee31bb060b3e432850"
+          }
+        ],
+        [
+          "4.7pF",
+          1,
+          "C0603",
+          "C6",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "CL10C4R7CB8NNNC",
+            "BOM_Manufacturer": "SAMSUNG",
+            "BOM_Supplier Part": "C57140",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "f8151fdc728a41ebbc304e11d39e5437",
+            "uuid": "15ac0f43cc8cb1eaa99539a5f5f45469"
+          }
+        ],
+        [
+          "33nF",
+          1,
+          "C0402",
+          "C7",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C415530",
+            "BOM_Manufacturer": "Murata Electronics",
+            "BOM_Manufacturer Part": "GRM155R71H333KE14D",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "0821ed6ea50c44f4909e4be7610e4198",
+            "uuid": "c662ea5254794efca79755fdd6189524"
+          }
+        ],
+        [
+          "1.5pF",
+          1,
+          "C0402",
+          "C8",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "MuRata",
+            "BOM_Manufacturer Part": "GJM1555C1H1R5BB01D",
+            "BOM_Supplier Part": "C76900",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "0821ed6ea50c44f4909e4be7610e4198",
+            "uuid": "5164df2efabb9ee89bb3dd596d0cfb40"
+          }
+        ],
+        [
+          "1pF",
+          1,
+          "C0402",
+          "C9",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C277493",
+            "BOM_Manufacturer": "YAGEO",
+            "BOM_Manufacturer Part": "CC0402CRNPO9BN1R0",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "0821ed6ea50c44f4909e4be7610e4198",
+            "uuid": "80b3502eb2824227bd7a64e06f7c541c"
+          }
+        ],
+        [
+          "1uF",
+          3,
+          "C0402",
+          "C11,C14,C16",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "FH",
+            "BOM_Manufacturer Part": "0402B105K100NT",
+            "BOM_Supplier Part": "C1526",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "0821ed6ea50c44f4909e4be7610e4198",
+            "uuid": "3bc11af0403e1f03939e8e3556800630"
+          }
+        ],
+        [
+          "0.1uF",
+          7,
+          "C0402",
+          "C12,C13,C15,C17,C19,C20,C21",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C2173076",
+            "BOM_Manufacturer": "Knowles(楼氏)",
+            "BOM_Manufacturer Part": "0402BB104K160NGT",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "0821ed6ea50c44f4909e4be7610e4198",
+            "uuid": "3405921bb22b45b199364636fdc66aba"
+          }
+        ],
+        [
+          "6.8pF",
+          1,
+          "C0402",
+          "C22",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "FH",
+            "BOM_Manufacturer Part": "0402CG6R8C500NT",
+            "BOM_Supplier Part": "C1576",
+            "BOM_JLCPCB Part Class": "Basic Part",
+            "puuid": "0821ed6ea50c44f4909e4be7610e4198",
+            "uuid": "7ae313cd9d9fe502200d6720c10f1514"
+          }
+        ],
+        [
+          "2.4pF",
+          1,
+          "C0402",
+          "C25",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C377751",
+            "BOM_Manufacturer": "Samsung Electro-Mechanics",
+            "BOM_Manufacturer Part": "CL05C2R4BB5NNNC",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "0821ed6ea50c44f4909e4be7610e4198",
+            "uuid": "563c0a0224544f9cacf63177bead8410"
+          }
+        ],
+        [
+          "1.5pF",
+          1,
+          "C0402",
+          "C26",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "FH",
+            "BOM_Manufacturer Part": "0402CG1R5C500NT",
+            "BOM_Supplier Part": "C1552",
+            "BOM_JLCPCB Part Class": "Basic Part",
+            "puuid": "0821ed6ea50c44f4909e4be7610e4198",
+            "uuid": "63e7742b0d2992ebd75dc6250c474d28"
+          }
+        ],
+        [
+          "8.2nH",
+          1,
+          "L0402",
+          "L1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "TDK",
+            "BOM_Manufacturer Part": "MLK1005S8N2JT000",
+            "BOM_Supplier Part": "C87542",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "8da96988a9164ab09ca115e01caf2944",
+            "uuid": "a5b2b1b429f9237006204a4da3edeb60"
+          }
+        ],
+        [
+          "3.9nH",
+          1,
+          "L0402",
+          "L2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "LQG15HS3N9S02D",
+            "BOM_Manufacturer": "MuRata",
+            "BOM_Supplier Part": "C77109",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "8da96988a9164ab09ca115e01caf2944",
+            "uuid": "6fc778687e396f50131810e71c425022"
+          }
+        ],
+        [
+          "2.7nH",
+          1,
+          "L0402",
+          "L3",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "Sunlord",
+            "BOM_Manufacturer Part": "SDCL1005C2N7STDF",
+            "BOM_Supplier Part": "C27123",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "8da96988a9164ab09ca115e01caf2944",
+            "uuid": "ff2738ab9b047633314b6fe37be989c0"
+          }
+        ],
+        [
+          "2nH",
+          1,
+          "L0402",
+          "L4",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer Part": "LQG15HS2N0S02D",
+            "BOM_Manufacturer": "MuRata",
+            "BOM_Supplier Part": "C18216",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "8da96988a9164ab09ca115e01caf2944",
+            "uuid": "cb224f52402d388e96aa85180af234fd"
+          }
+        ],
+        [
+          "AMS1117-3.3",
+          1,
+          "SOT-89-3_L4.5-W2.5-P1.50-LS4.2-BR",
+          "Q1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C5120796",
+            "BOM_Manufacturer": "MSKSEMI(美森科)",
+            "BOM_Manufacturer Part": "AMS1117-3.3V",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "89243c15a2974ba08305eced8ca2c9d4",
+            "uuid": "dd1bd0a9f0b849aeb788b05bdd214157"
+          }
+        ],
+        [
+          "1MΩ",
+          1,
+          "R0402",
+          "R1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C516088",
+            "BOM_Manufacturer": "KOA Speer Elec",
+            "BOM_Manufacturer Part": "RK73G1ETTP1004F",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "fafd024f554e426eb74cf4a204aa88b0",
+            "uuid": "3a655d3613e449d886ae4c2ee54429d5"
+          }
+        ],
+        [
+          "22kΩ",
+          1,
+          "R0402",
+          "R2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C416374",
+            "BOM_Manufacturer": "PANASONIC",
+            "BOM_Manufacturer Part": "ERJ2RHD2202X",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "fafd024f554e426eb74cf4a204aa88b0",
+            "uuid": "cd9e34ce9a1e4864bd8337b5d5e6b2cb"
+          }
+        ],
+        [
+          "0Ω",
+          7,
+          "R0603",
+          "R3,R4,R5,R6,R7,R12,R13",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C365490",
+            "BOM_Manufacturer": "ResistorToday",
+            "BOM_Manufacturer Part": "ETCR0603F0000K9",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "9f0f9f42eb63414dad304c797cf670be"
+          }
+        ],
+        [
+          "499Ω",
+          1,
+          "R0603",
+          "R9",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C374575",
+            "BOM_Manufacturer": "Viking Tech",
+            "BOM_Manufacturer Part": "AR03DTC4990",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "398691f1f785460098bbe5ee6590333c",
+            "uuid": "c178fe7a36de495d91bd9dde1de87cff"
+          }
+        ],
+        [
+          "10kΩ",
+          1,
+          "R0402",
+          "R10",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C723366",
+            "BOM_Manufacturer": "YAGEO",
+            "BOM_Manufacturer Part": "RT0402FRE0710KL",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "fafd024f554e426eb74cf4a204aa88b0",
+            "uuid": "1770b58c63e24c08a938bc6784dce6af"
+          }
+        ],
+        [
+          "KH-IPEX4-2020",
+          2,
+          "IPEX4-SMD_4P-L1.8-W1.7-LS2.0-L_KH-IPEX4-2020",
+          "RF1,RF2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C530666",
+            "BOM_Manufacturer": "Shenzhen Kinghelm Elec",
+            "BOM_Manufacturer Part": "KH-IPEX4-2020",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "28adc087b8a04cb791b02cc221afddd6",
+            "uuid": "11773c9293ab4d48bbb2d97051971d3c"
+          }
+        ],
+        [
+          "NRF24",
+          1,
+          "QFN-20_L4.0-W4.0-P0.50-BL-EP",
+          "U1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "NORDIC",
+            "BOM_Manufacturer Part": "NRF24L01P-R",
+            "BOM_Supplier Part": "C8791",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "21c52dac0e4d4362ad14f623a7ee6a7e",
+            "uuid": "dd9e4224c18644739b55c97fc2b3083e"
+          }
+        ],
+        [
+          "ESP32-S3",
+          1,
+          "QFN-56_L8.0-W8.0-P0.50-TL-EP4.1",
+          "U3",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C2913192",
+            "BOM_Manufacturer": "ESPRESSIF 乐鑫",
+            "BOM_Manufacturer Part": "ESP32-S3",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "6a219b29798e4d34b7f8a4d5a1c113f8",
+            "uuid": "28077fb1d4c94679b295ff0b6df2bcad"
+          }
+        ],
+        [
+          "FLASH-3v3",
+          1,
+          "SOIC-8_L5.3-W5.3-P1.27-LS8.0-BL",
+          "U4",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C136612",
+            "BOM_Manufacturer": "Macronix",
+            "BOM_Manufacturer Part": "KH25L3206EM2I-12G",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "fdf2396de7694c3e8177c1c94fe2bbcd",
+            "uuid": "2d177721b6ed46d5b8c9a05ad9452e0a"
+          }
+        ],
+        [
+          "PSRAM-3v3",
+          1,
+          "SOP-8_L4.9-W3.9-P1.27-LS6.0-BL",
+          "U5",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C2763896",
+            "BOM_Manufacturer": "null",
+            "BOM_Manufacturer Part": "ESP-PSRAM64H",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "1fe0adc377c7472ba321d68db1c050fa",
+            "uuid": "a50c9f84a3a94191b150bc792c5b2ad0"
+          }
+        ],
+        [
+          "16MHz",
+          1,
+          "CRYSTAL-SMD_4P-L3.2-W2.5-BL",
+          "X1",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Manufacturer": "YXC",
+            "BOM_Manufacturer Part": "X322516MOB4SI",
+            "BOM_Supplier Part": "C12668",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "9e297fbdb6c24ee39419d7ac96617dbf",
+            "uuid": "4a63236bda83a898f04660837751103f"
+          }
+        ],
+        [
+          "40MHz",
+          1,
+          "CRYSTAL-SMD_4P-L2.5-W2.0-BL",
+          "X2",
+          {
+            "BOM_Supplier": "LCSC",
+            "BOM_Supplier Part": "C431154",
+            "BOM_Manufacturer": "YL(Failong Crystal)",
+            "BOM_Manufacturer Part": "2S40000063",
+            "BOM_JLCPCB Part Class": "Extended Part",
+            "puuid": "b70bae0bf5554f38890502620b7befb0",
+            "uuid": "b7f82c74f67142c29f9b483d08dcbd70"
+          }
+        ],
+        [
+          "PLS-10R",
+          1,
+          "PLS-10_PDV",
+          "XT1",
+          {
+            "BOM_Manufacturer": "Ningbo Xinya M&E",
+            "BOM_Manufacturer Part": "38598",
+            "BOM_Supplier": "Chip&Dip",
+            "BOM_Supplier Part": "XY300VA-5.0-02P",
+            "puuid": "592bfb95d5b14ad49bd5c863b6056d02",
+            "uuid": "81517f7791f047eaa4cdbf4805e79779"
+          }
+        ],
+        [
+          "PLS-8R",
+          1,
+          "PLS-8",
+          "XT2",
+          {
+            "BOM_Manufacturer": "",
+            "BOM_Manufacturer Part": "PLS-8",
+            "BOM_Supplier Part": "undefined",
+            "BOM_Supplier": "",
+            "puuid": "1c354a6a763942fda2bdcdfaeea7c51e",
+            "uuid": "a223d2e2da5c40a98ea95cb93b28358a"
+          }
+        ]
+      ],
+      "updateTime": 1664265421,
+      "createTime": 1664178274,
+      "histories": [],
+      "created_at": "2022-09-26 10:44:34",
+      "updated_at": "2022-09-27 10:57:01"
+    },
+    {
+      "uuid": "53baf8cfb51055f9d667fcb606568524",
+      "puuid": "3fb7abcf89b590b283c53ec9a7fef37b",
+      "title": "PCB_New Project",
+      "filename": "PCB_New Project.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {
+        "f8151fdc728a41ebbc304e11d39e5437": 2,
+        "0821ed6ea50c44f4909e4be7610e4198": 24,
+        "8da96988a9164ab09ca115e01caf2944": 4,
+        "89243c15a2974ba08305eced8ca2c9d4": 1,
+        "fafd024f554e426eb74cf4a204aa88b0": 3,
+        "28adc087b8a04cb791b02cc221afddd6": 2,
+        "21c52dac0e4d4362ad14f623a7ee6a7e": 1,
+        "9e297fbdb6c24ee39419d7ac96617dbf": 1,
+        "592bfb95d5b14ad49bd5c863b6056d02": 1,
+        "1c354a6a763942fda2bdcdfaeea7c51e": 1,
+        "0bda8871273a46b9b8edd5ad69d0be20": 2,
+        "398691f1f785460098bbe5ee6590333c": 8,
+        "fdf2396de7694c3e8177c1c94fe2bbcd": 1,
+        "b70bae0bf5554f38890502620b7befb0": 1,
+        "6a219b29798e4d34b7f8a4d5a1c113f8": 1,
+        "1fe0adc377c7472ba321d68db1c050fa": 1
+      },
+      "BOM": [],
+      "updateTime": 1664277785,
+      "createTime": 1664185566,
+      "histories": [],
+      "created_at": "2022-09-26 12:46:06",
+      "updated_at": "2022-09-27 14:23:05"
+    }
+  ],
+  "sort": [],
+  "title": "New Project",
+  "foldername": "New Project",
+  "schfilename": "New Project.json",
+  "schfilemtime": 1664265421476
+}
