@@ -16,6 +16,6 @@ I am not sure that I chose the right capacitors in the antenna circuit for the E
 
 PCB creation
 
-# PCB(REV:2)
-![](https://github.com/Dm1try1/Final/blob/master/PNG.png)
+# PCB(REV:4)
+![](https://github.com/Dm1try1/not-test/blob/main/PCB.png)
 
